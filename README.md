@@ -4,7 +4,7 @@
 
   
 <div align="center" >
-  <img src="viewprevisao.png">
+  <img src="viewprevisao.jpg">
 </div>
 
 
