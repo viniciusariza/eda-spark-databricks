@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Análise exploratória e previsão de séries temporais com Databricks e Apache Spark</h1>
+  <h1>Análise descritiva e previsão de séries temporais com Databricks e Apache Spark</h1>
 </div>
 
   
